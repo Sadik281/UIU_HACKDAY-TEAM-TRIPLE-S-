@@ -441,7 +441,6 @@ in the Software without restriction...
 
 ## 👨‍💻 Author
 
-**Your Name**
 -MD ABDULLAH AL SADIK
 
 -SHIBLI NOMAN
